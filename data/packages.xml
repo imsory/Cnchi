@@ -7,7 +7,7 @@
 			<packages>
 				<pkgname>acpid</pkgname>
 				<pkgname>alsa-utils</pkgname>
-				<pkgname>antergos-keyring</pkgname>
+				<pkgname>antergos-keyring</pkgname>bijiben
 				<pkgname>antergos-mirrorlist</pkgname>
 				<pkgname>b43-fwcutter</pkgname>
 				<pkgname>base</pkgname> <!-- Group -->
@@ -98,9 +98,7 @@
 
 		<edition name="Gnome" description="Gnome Desktop">
 			<packages>
-				<pkgname>antergos-gnome-defaults-list</pkgname>
 				<pkgname>baobab</pkgname>  <!-- Disk usage -->
-				<pkgname>bijiben</pkgname> <!-- notes app -->
 				<pkgname>brasero</pkgname>
 				<pkgname>cdrkit</pkgname>
 				<pkgname>evince</pkgname>
@@ -108,45 +106,36 @@
 				<pkgname>file-roller</pkgname>
 				<pkgname>gedit</pkgname>
 				<pkgname>gnome-backgrounds</pkgname>
-				<pkgname>gnome-calculator</pkgname>
-				<pkgname>gnome-calendar</pkgname>
-				<pkgname>gnome-contacts</pkgname>
 				<pkgname>gnome-control-center</pkgname>
-				<pkgname>gnome-documents</pkgname>
 				<pkgname>gnome-disk-utility</pkgname>
 				<pkgname>gnome-font-viewer</pkgname>
 				<pkgname>gnome-keyring</pkgname>
 				<pkgname>gnome-logs</pkgname>
-				<pkgname>gnome-maps</pkgname>
-				<pkgname>gnome-music</pkgname>
-				<pkgname>gnome-photos</pkgname>
 				<pkgname>gnome-screenshot</pkgname>
 				<pkgname>gnome-shell</pkgname>
 				<pkgname>gnome-shell-extensions</pkgname>
 				<pkgname>gnome-shell-extension-dash-to-dock</pkgname>
-				<pkgname>gnome-shell-extension-status-menu-buttons</pkgname>
 				<pkgname>gnome-sound-recorder</pkgname>
 				<pkgname>gnome-system-monitor</pkgname>
 				<pkgname>gnome-terminal</pkgname>
 				<pkgname>gnome-themes-standard</pkgname>
 				<pkgname>gnome-tweak-tool</pkgname>
-				<pkgname>gnome-weather</pkgname>
 				<pkgname>gvfs-mtp</pkgname>
 				<pkgname>hicolor-icon-theme</pkgname>
 				<pkgname>libgnomeui</pkgname>
-				<pkgname>light-locker</pkgname>
-				<pkgname>light-locker-settings</pkgname>
 				<pkgname>nautilus</pkgname>
 				<pkgname nm='true' name='NetworkManager'>network-manager-applet</pkgname>
 				<pkgname>networkmanager-openvpn</pkgname>
 				<pkgname>networkmanager-pptp</pkgname>
-				<pkgname>orca</pkgname>
-				<pkgname>pidgin</pkgname>
-				<pkgname>seahorse</pkgname>
-				<pkgname>totem</pkgname>
 				<pkgname>transmission-gtk</pkgname>
 				<pkgname>xdg-user-dirs-gtk</pkgname>
 				<pkgname>xscreensaver</pkgname>
+				<pkgname>lollypop</pkgname>
+				<pkgname>eog-plugins</pkgname>
+				<pkgname>mpv</pkgname>
+				<pkgname>gedit-plugins</pkgname>
+				<pkgname></pkgname>
+				<pkgname></pkgname>
 			</packages>
 		</edition>
 
@@ -191,7 +180,7 @@
 				<pkgname>networkmanager-openvpn</pkgname>
 				<pkgname>networkmanager-pptp</pkgname>
 				<pkgname>pidgin</pkgname>
-				<pkgname>totem</pkgname>
+				<pkgname>mpv</pkgname>
 				<pkgname>transmission-gtk</pkgname>
 				<pkgname>xdg-user-dirs-gtk</pkgname>
 				<pkgname>zuki-themes</pkgname>
